@@ -74,10 +74,11 @@ Movie Rank,Movie Name,Year of Release,IMDB Rating
 2,The Godfather,1972,9.1
 ...
 ```
-
+![Description of GIF](https://github.com/SeifAmged/IMDb-Top-Movies-Scraper/blob/main/media2/1.gif)
 ## Error Handling
 - *Invalid Inputs*: The script will prompt the user again if they enter an invalid movie count, file name, or file format.
 - *Network Errors*: If the script encounters a network error, it will display an appropriate message and terminate gracefully.
+![Description of GIF](https://github.com/SeifAmged/IMDb-Top-Movies-Scraper/blob/main/media2/2.gif)
 
 ## Contributing
 Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
